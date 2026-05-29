@@ -54,7 +54,7 @@ This project helps in understanding:
 - Responsive web development
 - Hover animations and transitions
 
-▶ How to Run the Project
+How to Run the Project
 
 1. Download or clone the repository
 
