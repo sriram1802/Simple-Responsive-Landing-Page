@@ -1,4 +1,4 @@
-/* Reset and Base Styles */
+
 * {
     margin: 0;
     padding: 0;
@@ -17,7 +17,7 @@ a {
     color: inherit;
 }
 
-/* Header / Navbar Styling (Flexbox) */
+
 .navbar {
     display: flex;
     justify-content: space-between;
@@ -55,7 +55,7 @@ a {
     color: #4f46e5;
 }
 
-/* Hero Section (Flexbox centering) */
+
 .hero {
     min-height: 80vh;
     display: flex;
@@ -95,7 +95,7 @@ a {
     box-shadow: 0 10px 20px rgba(0,0,0,0.2);
 }
 
-/* Footer Styling */
+
 .footer {
     display: flex;
     flex-direction: column;
@@ -121,7 +121,7 @@ a {
     color: #fff;
 }
 
-/* Responsive Media Query for Mobile Devices */
+
 @media (max-width: 768px) {
     .navbar {
         flex-direction: column;
